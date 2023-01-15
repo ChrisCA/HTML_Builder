@@ -1,0 +1,9 @@
+[package]
+name = "html_builder"
+authors = ["Christian Albrecht"]
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+
+[dependencies]
+html-escape = "0.2.13"
